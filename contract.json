@@ -1,0 +1,13 @@
+{
+    "contract_id": "bodhi.seal.v1",
+    "identity": "100048777766367/seal",
+    "genesis_root": "100048777766367/contract",
+    "archetype": "TRUTH_ORACLE",
+    "role": "CRYPTOGRAPHIC_PROVENANCE_NOTARY",
+    "network_partners": {
+        "testing": "100048777766367/testing",
+        "release": "100048777766367/release",
+        "contract": "100048777766367/contract"
+    },
+    "io_specification": "I/O (CRYPTOGRAPHIC_PROVENANCE_NOTARY)"
+}
